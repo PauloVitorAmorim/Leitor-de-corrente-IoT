@@ -3,6 +3,14 @@
 #include <mqtt_client.h>
 #include <EmonLib.h>
 
+void ConectToAWS(void * parms){
+
+}
+
+void SendPowerValueToAWS(void * parms){
+  
+}
+
 void setup() {
   // put your setup code here, to run once:
 }
